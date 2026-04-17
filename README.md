@@ -71,4 +71,4 @@ Refer to `GamePlan.pdf` in the root directory for the complete game design bible
 - Visual and audio asset guides.
 
 ---
-Developed by **Tavis Fernandes**, **Atharv Amit Deshpande**, **Aayesha Patel**, **Advika Wankhede**| 2026
+Developed by **Tavis Fernandes**, **Atharv Amit Deshpande**, **Aayesha Patel**, **Advika Wankhede** | 2026
