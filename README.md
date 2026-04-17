@@ -63,6 +63,21 @@ cat unity-project.zip.part* > unity-project.zip
 
 ---
 
+## 🥽 VR Setup (Meta Quest 3)
+
+To run VaultQuest on a VR headset like the Meta Quest 3, you need to install the following three setup files found within the `setup.zip` archive in the root directory:
+
+1.  **VaultQuest Setup (`Setup.exe`)**: The main installer for the game build.
+2.  **SideQuest (`SideQuest-Setup-0.10.42-x64-win.exe`)**: Required for managing your Quest headset and sideloading.
+3.  **Meta XR Simulator (`meta_xr_simulator.msi`)**: Needed to simulate the VR environment for a seamless Meta Quest Link connection.
+
+**Basic Steps:**
+- Reconstruct and unzip `setup.zip` (if using the archived version).
+- Install all three components listed above.
+- Connect your Quest 3 via **Meta Quest Link** or **Air Link** and launch the application.
+
+---
+
 ## 📄 Documentation
 Refer to `GamePlan.pdf` in the root directory for the complete game design bible, including:
 - Detailed scene breakdowns.
